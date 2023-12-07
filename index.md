@@ -8,7 +8,7 @@ My GitHub page is http://github.com/JosemSandoval.
 
 ### CPSC 120
 
-### Refletcion 1: 
+### Reflection 1: 
 
 * Lab 1
     
