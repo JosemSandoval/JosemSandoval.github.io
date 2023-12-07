@@ -10,21 +10,6 @@ My GitHub page is http://github.com/JosemSandoval.
 
 ### Refletion 1: 
 
-* Lab 1
-    
-    Lab 1, part 1 was one of my favorites because it was an introduction to 
-    C++ for me. It allowed me to print out my first message to the world. It 
-    also helped me learn about the std library and and what printing a message 
-    looks like for future projects. 
- 
-* Lab 5
-
-    Lab 5, part 2 was one of my favorites because this time we had to use different 
-    files to incorporate our functions. The assignment required us to find how many 
-    feet, inches, and eighths of inches there are in a given double number. The lab 
-    had incorporated using doubles and getting them back in order to give the user 
-    a full calculation of feet, inches, and eighths of inches.
-
 * Lab 9
 
     Lab 9, part 2 was an interesting and favorite lab because of the usage of && for 
@@ -34,22 +19,6 @@ My GitHub page is http://github.com/JosemSandoval.
     identifying the problem loops and being able to complete the lab. 
 
 ### Reflection 2: 
-
-* Lab 7
-
-    Lab 7, part 1 was one of my favorite labs because arguments were very fun
-    to learn and use. I was able to use strings to integer functions (stoi)
-    to convert our string variables into actual dates. Datedifference had multiple
-    parameters in it, our start and end values, that were turned declared as arguments 
-    and turned to integers using stoi.
-
-* Lab 3
-
-    Lab 3, part 1 actually was one of my favorites because pizza is good to eat and 
-    code about. I was able to use a given diameter and radius and division equations
-    to find the amount of dollars per square inch for a pizza! Using an approximate value
-    of pi to find the official unit price of a pizza. I liked how we could use different
-    values used to get a price based on the pizza size, which is also funny.
 
 * Lab 12 
 
@@ -61,14 +30,6 @@ My GitHub page is http://github.com/JosemSandoval.
 
 ### Reflection 3: 
 
-* Lab 10 
-
-    Lab 10, part 2 was one of my favorites because this code had all California
-    counties and the population in them, which looks so cool. I was able to use 
-    a string that was a California county and print the county population from the 2D vector. 
-    I found it cool that a user can input just one word from the vector and the population that's
-    in that argument slot would be printed out. 
-
 * Lab 8 
 
     Lab 8, part 1 was actually a favorite because we were coding a user's 
@@ -77,11 +38,3 @@ My GitHub page is http://github.com/JosemSandoval.
     words put in the blanks. Being able to code small, fun games like these make
     the labs more fun to code and complete. This helped out with other labs
     as well due to knowing much more about arguments. 
-
-* Lab 4
-
-    Lab 4. part 2 was a favorite lab because we coded a minigame called Hi-Lo, where
-    the one of the players have to choose a number another one chose, and if they get
-    it wrong, a hint would be given whether the number is higher or lower. In this lab, 
-    I was able to incorporate if statements in order to figure out whether the second 
-    player was right or wrong, then give a hint if it was wrong.
