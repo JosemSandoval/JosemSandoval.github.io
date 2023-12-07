@@ -8,11 +8,11 @@ My GitHub page is http://github.com/JosemSandoval.
 
 ### CPSC 120
 
-### Reflection 1: 
+### Refletion 1: 
 
 * Lab 1
     
-    Lab 1, part 1 was one of my favorites because it was an introdcution to 
+    Lab 1, part 1 was one of my favorites because it was an introduction to 
     C++ for me. It allowed me to print out my first message to the world. It 
     also helped me learn about the std library and and what printing a message 
     looks like for future projects. 
@@ -30,8 +30,8 @@ My GitHub page is http://github.com/JosemSandoval.
     Lab 9, part 2 was an interesting and favorite lab because of the usage of && for 
     this lab. It was certainly easier to understand why && was used in our loop once
     the slides explained it. The lab, however, was difficult due to the loops providing 
-    errors due to forgetting .lenght after the schedule variables. It was fun working
-    idnetifying the problem loops and being able to complete the lab. 
+    errors due to forgetting .length after the schedule variables. It was fun working
+    identifying the problem loops and being able to complete the lab. 
 
 ### Reflection 2: 
 
@@ -49,7 +49,7 @@ My GitHub page is http://github.com/JosemSandoval.
     code about. I was able to use a given diameter and radius and division equations
     to find the amount of dollars per square inch for a pizza! Using an approximate value
     of pi to find the official unit price of a pizza. I liked how we could use different
-    values used to get a price based off the pizza size, which is also funny.
+    values used to get a price based on the pizza size, which is also funny.
 
 * Lab 12 
 
